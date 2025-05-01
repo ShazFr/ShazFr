@@ -32,14 +32,6 @@ After 4 exciting years in the **game development** industry, working with **Unit
 
 ---
 
-### 📌 Featured Projects
-
-- **Golang Quiz App** – A terminal-based quiz game using goroutines and channels
-- **Auth API in Go** – Login/signup system using JWT and bcrypt with full CRUD support
-- **Backend Projects WIP** – More incoming... 👨‍🏭
-
----
-
 ### ⚡ Fun Fact
-I once gave a talk at Microsoft and helped ship an international game title
+I once gave a talk at Microsoft Hyderabad and worked on shipping an International game title
 
