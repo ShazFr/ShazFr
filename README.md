@@ -18,7 +18,7 @@ After 4 exciting years in the **game development** industry, working with **Unit
 ### 🛠️ Tech Stack
 <p align="left">
   
-<!-->    #### Backend 
+<!-- #### Backend -->
   <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
@@ -27,7 +27,7 @@ After 4 exciting years in the **game development** industry, working with **Unit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
   </p>
   
-<!-->  #### Web Basics
+<!-- #### Web Basics -->
   <p align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -36,7 +36,7 @@ After 4 exciting years in the **game development** industry, working with **Unit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
 </p>
 
-  <!-->  #### Game Dev
+  <!-- #### Game Dev-->
   <p align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
