@@ -47,5 +47,5 @@ After 4 exciting years in the **game development** industry, working with **Unit
 ---
 
 ### ⚡ Fun Fact
-I once gave a talk at Microsoft Hyderabad and worked on shipping an International game title
+I once gave a talk at Microsoft Hyderabad and worked on shipping an International Game Title (Fears to Fathom: Woodbury Getaway)
 
