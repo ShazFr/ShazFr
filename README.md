@@ -52,5 +52,6 @@ ideally at a fast-moving startup where I can contribute meaningfully, learn fast
 ---
 
 ### ⚡ Fun Fact
-I once gave a talk at Microsoft Hyderabad and worked on shipping an International Game Title (Fears to Fathom: Woodbury Getaway)
-
+- 🎤 I once gave a talk at Microsoft Hyderabad about my journey in game development and transitioning into backend.
+- 🎮 I conducted a hands-on game development workshop at my university, mentoring students on building their first games with Unity.
+- 🌍 I worked on shipping an international game title — Fears to Fathom: Woodbury Getaway, featured by global content creators.
