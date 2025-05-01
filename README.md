@@ -7,9 +7,9 @@
 
 ### 👨‍💻 About Me
 
-After 4 exciting years in the **game development** industry, working with **Unity and C#**, I’ve pivoted to pursue my passion for **backend engineering** — diving deep into system design, scalable APIs, and building reliable services using **Golang**.
+After 4 exciting years in the **game development** industry, working with **Unity and C#**, I’ve pivoted to **backend engineering** — diving deep into system design, scalable APIs, and building reliable services using **Golang**.
 
-🔁 I'm currently in the middle of this transition and loving every bit of it. From building quiz apps and authentication systems to learning Docker and concurrency in Go — I'm sharpening my backend skills daily.
+🔁 I'm currently in the middle of this transition, feels like an adventure. From building quiz apps and authentication systems to learning Docker and concurrency in Go, we learn as much as possible
 
 🧰 I'm **actively looking for a full-time backend role (remote preferred)** — ideally at a startup where I can contribute, learn fast, and grow.
 
@@ -40,14 +40,6 @@ After 4 exciting years in the **game development** industry, working with **Unit
 
 ---
 
-### 🤝 Let’s Connect
-
-- 📬 Email: [yourname@email.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio (optional): [yourdomain.com](https://yourdomain.com)
-
----
-
 ### ⚡ Fun Fact
-I once gave a talk at Microsoft and helped ship an international game title — now I’m building distributed systems in Go 🚀
+I once gave a talk at Microsoft and helped ship an international game title
 
