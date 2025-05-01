@@ -13,7 +13,7 @@
 
 🛠️ I’ve since transitioned into backend engineering with Golang, building full-stack projects with Gin, Fiber, GORM, MySQL, MongoDB, Redis, and Docker. I'm obsessed with clean code, fast APIs, and scalable design.
 
-💼 I'm now actively looking for a full-time backend role (remote preferred I spent a lot on the standing desk before getting laid off for the 3rd time)
+💼 I'm now actively looking for a full-time backend role **(remote preferred I spent a lot on the standing desk before getting laid off for the 3rd time)**
 ideally at a fast-moving startup where I can contribute meaningfully, learn fast, and grow with the team.
 
 
