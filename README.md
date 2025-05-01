@@ -56,5 +56,5 @@ ideally at a fast-moving startup where I can contribute meaningfully, learn fast
 
 🎮 I conducted a hands-on game development workshop at my university, mentoring students on building their first games with Unity.
 
-🌍 I worked on shipping an international [award winning](https://www.linkedin.com/posts/akhan1990_indiedev-gamedev-fearstofathom-ugcPost-7265234772539383808-ihnq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw0K2oBhKKzVNW79ZJ9CI-M8H4GSlBdMjI) game title [Fears to Fathom: Woodbury Getaway](https://store.steampowered.com/app/2961530/Fears_to_Fathom__Woodbury_Getaway/), 
-[featured by global content creators](https://www.linkedin.com/posts/anchit-sh_fears-to-fathom-woodbury-getaway-is-out-ugcPost-7245321797930213376-tK_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAACw0K2oBhKKzVNW79ZJ9CI-M8H4GSlBdMjI).
+🌍 I worked as a programmer on the [award winning](https://www.linkedin.com/posts/akhan1990_indiedev-gamedev-fearstofathom-ugcPost-7265234772539383808-ihnq?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw0K2oBhKKzVNW79ZJ9CI-M8H4GSlBdMjI) game title [Fears to Fathom: Woodbury Getaway](https://store.steampowered.com/app/2961530/Fears_to_Fathom__Woodbury_Getaway/), 
+[featured by top global creators](https://www.linkedin.com/posts/anchit-sh_fears-to-fathom-woodbury-getaway-is-out-ugcPost-7245321797930213376-tK_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAACw0K2oBhKKzVNW79ZJ9CI-M8H4GSlBdMjI).
