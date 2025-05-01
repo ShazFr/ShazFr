@@ -26,6 +26,7 @@ After 4 exciting years in the **game development** industry, working with **Unit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
   </p>
+  
   #### Web Basics
   <p align="left">
   
