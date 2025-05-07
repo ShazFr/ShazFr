@@ -2,7 +2,7 @@
 
 - 🎮 Ex Gamedev - gamedev layoff war veteran, switching careers currently 
 - 💻 Backend Dev - will build/code any tech really until morally correct and harmless
-- 📄 Portfolio - [www.shazfr.in](ShazFr.in)
+- 📄 Portfolio - [shazfr.in](https://shazFr.in)
 - 💼 Jobless - Looking for remote opportunities as a Golang Dev
 
 ---
