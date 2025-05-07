@@ -1,10 +1,9 @@
 # Hey there, I'm Shaz 👋
 
-
-
-### 👨‍💻 About Me
-
-🎮 Ex Gamedev now Backend Dev
+🎮 Ex Gamedev - gamedev layoff war veteran, switching careers currently 
+💻 Backend Dev - will build/code any tech really until morally correct and harmless
+📄 Portfolio - [www.shazfr.in](ShazFr.in)
+💼 Jobless - Looking for remote opportunities as a Golang Dev
 
 ---
 
@@ -42,7 +41,7 @@
 
 <!--[talk](https://www.linkedin.com/posts/csi-mjcet_tech-devexpedition-csi-ugcPost-7267586706432806913-WU_W?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw0K2oBhKKzVNW79ZJ9CI-M8H4GSlBdMjI)-->
 
-### ⚡ Fun Facts
+### Totally Unnecessary Shameless Bragging
 🎤 Guest Speaker at [Microsoft Hyderabad](https://www.linkedin.com/feed/update/urn:li:activity:7259803938839789569/).
 
 🎮 Conducted a [hands-on game development workshop](https://www.linkedin.com/posts/csi-mjcet_csi-activity-7253069485014728704-G8sT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw0K2oBhKKzVNW79ZJ9CI-M8H4GSlBdMjI) at my university, mentoring students on building their first games with Unity.
