@@ -1,21 +1,10 @@
 <h1 align="center">Hey there, I'm Shaz 👋</h1>
-<p align="center">
-  🧠 Ex-Game Developer | 🚀 Aspiring Backend Developer (Golang) | 🌍 Remote-First | 💻 Open to Opportunities
-</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎮 After 4 years in the game development industry, building international games with Unity and C#, giving talks, and even winning awards, I decided it was time for a change.
-
-📉 While I loved creating games, the industry didn’t offer the kind of growth, stability, and learning curve I was looking for. That led me to backend development, where I found the perfect blend of structure, creativity, and engineering challenges.
-
-🛠️ I’ve since transitioned into backend engineering with Golang, building full-stack projects with Gin, Fiber, GORM, MySQL, MongoDB, Redis, and Docker. I'm obsessed with clean code, fast APIs, and scalable design.
-
-💼 I'm now actively looking for a full-time backend role **(remote preferred)**
-ideally at a fast-moving startup where I can contribute meaningfully, learn fast, and grow with the team.
-
+🎮 Ex Gamedev now Backend Dev
 
 ---
 
