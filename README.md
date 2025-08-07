@@ -1,8 +1,9 @@
 # Hey there, I'm Shaz 👋
 
-- 💻 Cloud & DevOps Engineer — automating infrastructure, deploying fast, breaking nothing  
-- 🛠️ Always building — Linux, AWS, Terraform, Docker, CI/CD, and weird side projects  
-- 🌐 Portfolio — [shazfr.in](https://shazFr.in)
+- 💻 Cloud & DevOps Engineer - automating infrastructure, deploying fast, breaking nothing  
+- 🛠️ Always building - Linux, AWS, Terraform, Docker, CI/CD, and random side projects  
+- 🌐 Portfolio - [shazfr.in](https://shazFr.in) (WIP: currently showcases personal projects; planning to turn it into a blog)
+
 <!-- - 💼 Jobless - Looking for remote opportunities as a Cloud Engineer -->
 <!-- 
 ---
